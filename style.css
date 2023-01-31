@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "Fira Sans";
+    src: url('fonts/fira/eot/FiraSans-Regular.eot');
+    src: url('fonts/fira/eot/FiraSans-Regular.eot') format('embedded-opentype'),
+         url('fonts/fira/woff2/FiraSans-Regular.woff2') format('woff2'),
+         url('fonts/fira/woff/FiraSans-Regular.woff') format('woff'),
+         url('fonts/fira/woff2/FiraSans-Regular.ttf') format('truetype');
+  }
+
+  @font-face {
+    font-family: Raleway;
+    src: url('fonts/raleway/Raleway.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 300 800;
+  }
+  
+
+  
+h1{
+   
+    font-size: 50px;
+}
+ul{
+   
+    font-size: 25px;
+}
+a{
+    color: rgb(0,0,0);
+}
+body{
+    background-color: beige;
+    font-family:"Amatic SC", Calibri, Tahoma, sans-serif;
+}
